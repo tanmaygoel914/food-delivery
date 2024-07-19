@@ -25,9 +25,12 @@ For support, email goel.tanmay914@gmail.com .
 ## Screenshots
 
 
-![App Screenshot](frontend\public\image.png)
-![App Screenshot](frontend\public\image2.png)
-![App Screenshot](frontend\public\image3.png)
+<p align="center">
+    <img src="frontend\public\image.png" width="100%">
+    <img src="frontend\public\image2.png" width ="100%">
+    <img src="frontend\public\image3.png" width="100%">
+    </p>
+
 
 ## Testing
 
