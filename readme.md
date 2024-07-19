@@ -41,9 +41,16 @@ cd frontend
 npm intall
 npm run dev
 ```
+for backend:
 ```bash
 cd backend
 npm intall
 node server.js
+```
+for Admin:
+```bash
+cd admin
+npm intall
+npm run dev
 ```
 
