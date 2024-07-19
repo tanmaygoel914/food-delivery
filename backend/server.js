@@ -13,11 +13,12 @@ const port = process.env.PORT || 4000;
 
 //middleware
 app.use(express.json());
-app.use(cors({
-    origin: ["https://food-ordering-tawny-xi.vercel.app"],
-    methods: ["POST", "GET"],
-    credentials: true
-}));
+// app.use(cors({
+//     origin: ["https://food-ordering-tawny-xi.vercel.app"],
+//     methods: ["POST", "GET"],
+//     credentials: true
+// }));
+app.use(cors());
 
 //db connection
 connectDB();
