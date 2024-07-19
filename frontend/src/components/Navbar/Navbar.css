@@ -7,7 +7,7 @@
     top: 0;
     width: 80%;
     z-index: 1000;
-    overflow: hidden;
+    /* overflow: hidden; */
     background-color: rgba(255, 255, 255, 0.966);
 }
 
@@ -136,6 +136,7 @@
         border: 1px solid tomato;
         outline: 2px solid white;
         list-style: none;
+        z-index: 1;
     }
     .nav-profile-dropdown li{
         display: flex;
